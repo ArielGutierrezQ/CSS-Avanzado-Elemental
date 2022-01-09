@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+}
+
+.header{
+    height: 50px;
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+
+#Etiqueta{
+    height: 40px;
+    width: auto;
+    object-fit: contain; 
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+}
+
+.menu-button{
+    font-family: 'Fira Sans', sans-serif;
+    color: aliceblue;
+}
+
+.menu-div{
+    color: aliceblue;
+}
